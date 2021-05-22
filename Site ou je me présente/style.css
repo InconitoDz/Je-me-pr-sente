@@ -1,0 +1,19 @@
+body {
+    background-image: url("Image/Apple.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+p.ligne{
+font-size: 45px;  
+}
+p{text-align: center;}
+h1{
+    text-align: center;
+}
+
+.cadre{
+    border: 5px solid red;
+    background-color: yellow;
+}
